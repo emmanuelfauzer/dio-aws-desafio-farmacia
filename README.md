@@ -50,3 +50,6 @@ A implementação dos serviços EC2, RDS e S3 na Abstergo Industries proporciona
 ## Anexos
 - Diagrama de Arquitetura da Solução
 - Estimativa de Custos AWS
+
+Assinatura do Responsável pelo Projeto:
+Emmanuel Fauzer
